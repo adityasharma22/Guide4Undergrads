@@ -1,0 +1,11 @@
+.header {
+    background-color: #388e3c; /* Dark Green */
+    padding: 33px 0;
+    text-align: center;
+  }
+  
+  .logo h1 {
+    color: #fff;
+    margin: 0;
+    font-size: 31px;
+  }

@@ -1,0 +1,32 @@
+.contact-container {
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: #388e3c; /* Dark Green */
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 30px;
+  }
+  
+  h2, h3 {
+    color: #388e3c; /* Dark Green */
+  }
+  
+  footer {
+    background-color: #f0f0f0; /* Light Gray */
+    text-align: center;
+    padding: 10px 0;
+  }
